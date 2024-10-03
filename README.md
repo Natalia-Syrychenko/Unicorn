@@ -7,7 +7,7 @@ The project consists of four main parts:
 
 - **Data Exploration:** Conducted using SQL queries to understand key patterns in the sales data.
 - **Data Cleaning:** Processed using spreadsheets to ensure data consistency and accuracy.
-- **Insights Visualization:** Leveraged Tableau to visualize findings and trends.
+- **Insights Visualization:** Leveraged Tableau to visualize findings and trends [Interactive Dashboard](https://public.tableau.com/app/profile/maike.gorsboth/viz/UnicornProfitsandLosses2015-2018/Dashboard2#1).
 - **Executive Summary:** Final report and presentation of insights and recommendations.
   
 ## My Contribution
