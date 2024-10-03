@@ -23,3 +23,11 @@ I conducted data analysis in a spreadsheet to generate key business insights. Th
 - **SQL** for initial data exploration.
 - **Google Sheets** for data cleaning.
 - **Tableau** for data visualization and analysis.
+
+## Contributors
+Thanks to the following people who have contributed to this project:
+
+- **Stephan Welzel** - Data Analyst
+- **Maike Gorsboth** - Data Analyst
+- **Mark Sommerfeld** - Data Analyst
+  
