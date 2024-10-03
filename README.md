@@ -16,7 +16,7 @@ I conducted data analysis in a spreadsheet to generate key business insights. Th
 - **File 2:** [Additional task_visualisation](https://docs.google.com/spreadsheets/d/1i5P4jmJ3J7_Bynd4Bw1tRGmX8GIYPass0QORqvWLVJg/edit?usp=sharing)
 
 ## Folder Structure
-- /Data_Exploration_SQL/ - SQL scripts used for exploring the dataset.
+- /Unicorn_SQL/ - SQL scripts used for exploring the dataset.
 - /Executive_Summary/ - Final presentation and summary.
 
 ## Tools Used
