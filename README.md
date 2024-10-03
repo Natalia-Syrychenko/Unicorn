@@ -16,10 +16,8 @@ I conducted data analysis in a spreadsheet to generate key business insights. Th
 - **File 2:** [Additional task_visualisation](https://docs.google.com/spreadsheets/d/1i5P4jmJ3J7_Bynd4Bw1tRGmX8GIYPass0QORqvWLVJg/edit?usp=sharing)
 
 ## Folder Structure
-/Data_Exploration_SQL/ - SQL scripts used for exploring the dataset.
-/Data_Cleaning_Spreadsheets/ - Spreadsheet files and documentation on the cleaning process.
-/Insights_Tableau/ - Tableau visualizations and reports.
-/Executive_Summary/ - Final presentation and summary.
+- /Data_Exploration_SQL/ - SQL scripts used for exploring the dataset.
+- /Executive_Summary/ - Final presentation and summary.
 
 ## Tools Used
 - **SQL** for initial data exploration.
