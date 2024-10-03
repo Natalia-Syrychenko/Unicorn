@@ -21,7 +21,7 @@ I conducted data analysis in a spreadsheet to generate key business insights. Th
 
 ## Tools Used
 - **SQL** for initial data exploration.
-- **Google Sheets** for data cleaning.
+- **Google Sheets** for data cleaning, analysis, visualization.
 - **Tableau** for data visualization and analysis.
 
 ## Contributors
