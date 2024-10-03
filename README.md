@@ -16,8 +16,8 @@ I conducted data analysis in a spreadsheet to generate key business insights. Th
 - **File 2:** [Additional task_visualisation](https://docs.google.com/spreadsheets/d/1i5P4jmJ3J7_Bynd4Bw1tRGmX8GIYPass0QORqvWLVJg/edit?usp=sharing)
 
 ## Folder Structure
-- /Unicorn_SQL/ - SQL scripts used for exploring the dataset.
-- /Executive_Summary/ - Final presentation and summary.
+- /Unicorn_sql (1)/ - SQL scripts used for exploring the dataset.
+- /Presentation Unicorn Corp../ and /Unicorn Executive Summary_final (1)/ - Final presentation and summary.
 
 ## Tools Used
 - **SQL** for initial data exploration.
@@ -30,4 +30,7 @@ Thanks to the following people who have contributed to this project:
 - **Stephan Welzel** - Data Analyst
 - **Maike Gorsboth** - Data Analyst
 - **Mark Sommerfeld** - Data Analyst
+
+## About me
+- **Natalia Syrychenko** - Data Analyst
   
